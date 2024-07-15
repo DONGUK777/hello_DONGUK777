@@ -11,7 +11,7 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-hello_donguk777.hello:hi
+hello_DONGUK777 = hello_donguk777.hello:hi
 
 [tool.pdm]
 distribution = true
